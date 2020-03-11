@@ -5,4 +5,6 @@ from Proyecto1.views import *
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('saludo/',saludo),
+    path('feed/',feedClass),
+    path('curso/',pagCurso),
 ]
