@@ -12,7 +12,7 @@ Small django onlinestore from Pildoras informaticas course
 - CSS
 
 #### Other Resources
-Pildoras Informáticas : https://www.youtube.com/watch?v=7XO1AzwkPPE&list=PLU8oAlHdN5BmfvwxFO7HdPciOCmmYneAB
+- Pildoras Informáticas : https://www.youtube.com/watch?v=7XO1AzwkPPE&list=PLU8oAlHdN5BmfvwxFO7HdPciOCmmYneAB
 ------------
 
 #### Author
