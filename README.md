@@ -4,7 +4,6 @@
 #### Description
 Small django onlinestore from Pildoras informaticas course
 
-
 #### Technologies
 - Python
 - Django
