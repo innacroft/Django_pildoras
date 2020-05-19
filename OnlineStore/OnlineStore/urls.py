@@ -4,7 +4,8 @@ from orderManager import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('search_articles', views.search_articles,),
-    path('search', views.search,)
+    path('search', views.search,),
+    path('contact', views.contact,),
    
     
 ]
